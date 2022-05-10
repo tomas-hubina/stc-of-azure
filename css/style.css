@@ -451,6 +451,7 @@ button {
 	width: 100%;
 	float: left;
 	font-size: 50px;
+    font-family: 'Segoe UI';
 	color: #030303;
 	border-bottom: 1px solid #000;
 }
