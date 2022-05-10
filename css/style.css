@@ -403,6 +403,8 @@ button {
     width: 60%;
     float: left;
     margin-top: 25px;
+}
+.ja {
     border-radius: 50%;
 }
 .about_text{
