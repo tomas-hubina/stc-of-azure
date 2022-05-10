@@ -403,7 +403,7 @@ button {
     width: 100%;
     float: left;
     margin-top: 25px;
-    border-radius: 50%;
+    border-radius: 50px;
 }
 .about_text{
 	width: 41%;
